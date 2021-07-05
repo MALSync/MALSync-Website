@@ -598,5 +598,10 @@
     "domain": "https://www.funimation.com",
     "type": "anime",
     "name": "Funimation"
+  },
+  {
+    "domain": "https://beta.kitsune.tv",
+    "type": "anime",
+    "name": "Kitsune"
   }
 ]
