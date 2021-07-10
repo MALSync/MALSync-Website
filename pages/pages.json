@@ -210,6 +210,11 @@
     "name": "Hidive"
   },
   {
+    "domain": "https://manga.fascans.com",
+    "type": "manga",
+    "name": "FallenAngels"
+  },
+  {
     "domain": "https://www.primevideo.com",
     "type": "anime",
     "name": "Amazon Prime Video"
