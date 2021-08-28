@@ -170,6 +170,11 @@
     "name": "moeclip"
   },
   {
+    "domain": "https://mangalivre.net",
+    "type": "manga",
+    "name": "mangalivre"
+  },
+  {
     "domain": "https://lectortmo.com",
     "type": "manga",
     "name": "tmofans"
